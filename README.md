@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there the names Dimas👋
+
+## I am a sophomore in Biomedical Engineering 
+👯 I’m from Surakarta,Indonesia
+🔭 I’m currently studying in University of Gadjah Mada
+🌱 I’m currently learning HTML, CSS, and Javascript!
+⚡ Fun fact:  - I'm 19 years old, I like music, games, and designing
 
 <!--
 **Agbropro/Agbropro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
