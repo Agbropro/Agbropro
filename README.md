@@ -1,4 +1,4 @@
-### Hi there the names Dimas👋
+### Hello there the name Dimas👋
 
 ## I am a sophomore in Biomedical Engineering 
 👯 I’m from Surakarta,Indonesia
