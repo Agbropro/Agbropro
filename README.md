@@ -3,9 +3,9 @@
 ## I am a sophomore in Biomedical Engineering 
 
 👯 I’m from Surakarta,Indonesia
-🔭 I’m currently studying in University of Gadjah Mada
-🌱 I’m currently learning HTML, CSS, and Javascript!
-⚡ Fun fact:  - I'm 19 years old, I like music, games, and designing
+🔭 I graduated as a biomedical engineer major from Universitas Gadjah Mada!
+🌱 I’m currently interested in Computer Vision and Data Science!
+⚡ Fun fact:  - I'm 22 years old, I like music, games, and designing
 
 ## Connect with me
  <a href="https://www.linkedin.com/in/nicholas-dimas-p-p-5625221b7/">
