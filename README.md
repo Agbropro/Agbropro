@@ -1,30 +1,17 @@
-### Hello there the name Dimas👋
+### Hi there, I'm Dimas 👋
 
-## I am a sophomore in Biomedical Engineering 
+AI / Computer Vision Engineer building production-ready machine learning systems.
 
-👯 I’m from Surakarta,Indonesia
-🔭 I graduated as a biomedical engineer major from Universitas Gadjah Mada!
-🌱 I’m currently interested in Computer Vision and Data Science!
-⚡ Fun fact:  - I'm 22 years old, I like music, games, and designing
+🔭 Developing Computer Vision solutions deployed across 50+ operational sites  
+⚙️ Experienced in real-time inference systems using PyTorch, OpenCV, and YOLO  
+🧠 Interested in ML Systems, AI Infrastructure, and scalable model deployment  
+📦 Exploring MLOps workflows with Docker for reliable AI distribution  
+🛠 Passionate about system reliability, clean architecture, and engineering AI beyond notebooks
 
 ## Connect with me
- <a href="https://www.linkedin.com/in/nicholas-dimas-p-p-5625221b7/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nicholasdimas15/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-<!--
-**Agbropro/Agbropro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/nicholas-dimas-p-p-5625221b7/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/nicholasdimas15/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
