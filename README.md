@@ -12,6 +12,6 @@ AI / Computer Vision Engineer building production-ready machine learning systems
 <a href="https://www.linkedin.com/in/nicholas-dimas-p-p-5625221b7/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/nicholasdimas15/">
+<a href="https://www.instagram.com/dmust_ey/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
